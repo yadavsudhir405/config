@@ -1,3 +1,4 @@
-server.port={PORT:8000}
-server-name=reservation-services
-server.application.context=/reservation-services
+server:
+	port:8080
+	application:
+		name:reservation-services
