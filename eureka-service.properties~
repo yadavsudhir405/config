@@ -1,4 +1,3 @@
-server.port=${PORT:8089}
-#eureka.client.registerWithEureka=false
-#eureka.client.fetchRegistry=false
-#eureka.server.waitTimeInMsWhenSyncEmpty=0
+server.port=${PORT:8761}
+eureka.client.register-with-eureka=false
+eureka.client.fetch-registry=false
