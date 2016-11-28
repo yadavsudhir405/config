@@ -1,2 +1,3 @@
 server.port=${PORT:9999}
 reservation-services.ribbon.eureka.enabled=true
+spring.cloud.stream.bindings.producer.destination=salesssssss
