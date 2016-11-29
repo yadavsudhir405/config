@@ -1,5 +1,0 @@
-greeting-message:Good morning
-debug:"true"
-spring.rabbitmq.host:8000
-test.server.port:9000
-rabbit.host.url:172.25.2.77
